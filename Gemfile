@@ -11,7 +11,7 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -28,4 +28,4 @@ group :jekyll_plugins do
   gem 'hawkins'
 end
 
-gem "webrick", "~> 1.7"
+# gem "webrick", "~> 1.7"
